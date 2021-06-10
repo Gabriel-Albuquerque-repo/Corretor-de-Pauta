@@ -7,6 +7,7 @@ Dependências externas necessárias (pip):
 - python-docx
 - pyinstaller 
 
+Caso queira testar, utilize os arquivos .doc e .txt. Alguns processos do .txt foram inclusos de forma aleatória da Pauta. A mesma é um arquivo público. 
 
 Contato Queiroz:
 - https://www.queirozadv.com.br
