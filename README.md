@@ -1,5 +1,6 @@
 # Corretor-de-Pauta
 Meu primeiro projeto comercial. 
+> status: Finalizado 
 
 Projeto free desenvolvido para o escritório tributário "Queiroz Advogados Associados" em conjunto com o designer e meu sócio/amigo Alexandre Mendes.
 
