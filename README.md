@@ -8,8 +8,10 @@ Dependências externas necessárias (pip):
 - python-docx
 - pyinstaller 
 
-Caso queira testar, utilize os arquivos .doc e .txt. Alguns processos do .txt foram inclusos de forma aleatória da Pauta. A mesma é um arquivo público. 
-
+Observações:
+  - Caso queira testar, utilize os arquivos .doc e .txt. Alguns processos do .txt foram inclusos de forma aleatória da Pauta. A mesma é um arquivo público. 
+  - pyinstaller foi utilizado para criar um executável. 
+  
 Contato Queiroz:
 - https://www.queirozadv.com.br
 - @Queiroz.advogados.associados (instagram)
