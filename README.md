@@ -1,4 +1,4 @@
-# corretor-de-Pauta
+# corretor-de-pauta
 Meu primeiro projeto comercial. 
 > status: Finalizado 
 
