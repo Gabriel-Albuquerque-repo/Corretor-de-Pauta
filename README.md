@@ -4,8 +4,10 @@
 
 Projeto free desenvolvido para o escritório tributário "Queiroz Advogados Associados" em conjunto com o designer e meu sócio/amigo Alexandre Mendes.
 
-### Built With:
-- pip;
+### Linguagem:
+- Python.
+
+### Dependências externas(pip):
 - python-docx;
 - pyinstaller.
 
